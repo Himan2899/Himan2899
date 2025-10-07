@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/himanshubali">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&width=435&lines=Full+Stack+Developer;AI+%26+Web+Explorer;Open+Source+Contributor;UI%2FUX+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&width=435&lines=Full+Stack+Developer;AI/ML CLOUD ENGINEER+%26+;Open+Source+Contributor; DevOps ;Always+Learning+New+Tech" alt="Typing SVG" />
   </a>
 </p>
 
