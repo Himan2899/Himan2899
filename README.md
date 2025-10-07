@@ -1,4 +1,4 @@
-# Hi, I'm Himanshu Bali 👋
+# Hi, I'm Himanshu Bali 💻
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Cloud+Engineer;DevOps+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
