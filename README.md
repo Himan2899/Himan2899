@@ -106,34 +106,7 @@
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himan2899&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00FF88&text_color=FFFFFF&border_radius=10" height="165px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himan2899&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00FF88&fire=FF6B6B&currStreakNum=00D4FF&sideNums=FFFFFF&currStreakLabel=00FF88&sideLabels=FFFFFF&dates=FFFFFF" height="165px"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himan2899&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_radius=10"/>
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Himan2899&theme=tokyonight&margin-w=15&margin-h=15&row=2&column=4&no-frame=true"/>
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himan2899&theme=tokyonight&hide_border=true&area=true&color=00D4FF&line=00FF88&point=FF6B6B&area_color=0D1117" alt="Contribution Graph" />
-</div>
-
----
 
 ## 🚀 Featured Projects
 
@@ -181,13 +154,7 @@
         <img src="https://img.shields.io/badge/🎯-Open%20Source%20AI%20Projects-00FF88?style=for-the-badge&labelColor=00FF88&color=white"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/⚡-Debug%20with%20Music-FFD700?style=for-the-badge&labelColor=FFD700&color=black"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
+    
 
 ## 🎨 Skills Radar
 
