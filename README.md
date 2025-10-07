@@ -1,17 +1,134 @@
+#  Hi, I'm Himanshu Bali  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/himanshu-bali) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Himansde2899) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshuofficialuserid@gmail.com) 
+<p align="center">
+  <a href="https://github.com/himanshubali">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&width=435&lines=Full+Stack+Developer;AI+%26+Web+Explorer;Open+Source+Contributor;UI%2FUX+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=Twilio&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat-square&logo=pnpm&logoColor=f69220) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=flat-square&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Himan2899&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Himan2899&theme=default_repocard&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Himan2899&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+🚀 Passionate Full-Stack  Developer | AI/ML CLOUD ENGINEER  |  DevOps 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Himan2899&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
+Welcome to my GitHub! I love building **impactful projects** that combine **design, scalability, and innovation**.  
+Currently exploring **AI + Web** integrations & working on exciting projects in **cloud-native applications**.  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Himan2899&icon=1&color=1)](https://visitcount.itsvg.in)
 
+## 🌐 Connect with Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/himanshu-bali" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:himanshubali855@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack  
+
+<details>
+<summary>💻 Languages & Frameworks</summary>
+<br>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,html,java,python,cpp,cs,c,react,reactnative,nextjs,angular,vue,express,django,flask,threejs,vite" />
+</p>
+</details>
+
+<details>
+<summary>☁️ Databases & Cloud</summary>
+<br>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,redis,gcp,aws,azure,vercel,netlify,docker,kubernetes" />
+</p>
+</details>
+
+<details>
+<summary>⚙️ Libraries, Tools & Others</summary>
+<br>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,tailwind,bootstrap,figma,canva,pandas,numpy,matplotlib,sklearn,tensorflow,pytorch,opencv" />  
+<br><br>
+<img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white"/>
+</p>
+</details>
+
+---
+
+##  GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshubali&show_icons=true&theme=radical" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshubali&theme=radical" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshubali&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=himanshubali&theme=onedark&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+##  Contribution Activity  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshubali&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+<details>
+<summary>🔹 Project 1 – AI-powered Web Accessibility Chrome Extension</summary>
+<br>
+⚡ A Chrome extension that enhances **web accessibility** using AI.  
+🔑 Features: Text-to-Speech, Speech-to-Text, Contrast Fixer, AI Image Labeling, Keyboard Navigation.  
+🛠️ Tech Stack: JavaScript, React, TailwindCSS, TensorFlow, Chrome APIs.  
+🔗 [Live Demo](#) | [Repo](#)
+</details>
+
+<details>
+<summary>🔹 Project 2 – Real-time Chat App with Socket.io & MongoDB</summary>
+<br>
+💬 A **real-time messaging application** with authentication, typing indicators, and media sharing.  
+🛠️ Tech Stack: Node.js, Express, MongoDB, Socket.io, JWT, TailwindCSS.  
+🔗 [Live Demo](#) | [Repo](#)
+</details>
+
+<details>
+<summary>🔹 Project 3 – Personal Finance Tracker with Cloud Deployment</summary>
+<br>
+💰 A finance management app with **expense tracking, analytics, and budgeting**.  
+🛠️ Tech Stack: Next.js, Supabase, Chart.js, TailwindCSS, Vercel.  
+🔗 [Live Demo](#) | [Repo](#)
+</details>
+
+---
+
+## 📌 Fun Facts About Me  
+- 🔭 Currently learning **AI integrations with Web & Mobile**  
+- ✨ Always experimenting with **new design systems**  
+- 🎯 Goal for 2025: Contribute to **open-source AI projects**  
+- ⚡ Fun fact: I can debug faster with ** on loop 🎧**  
+
+---
+
+## 👀 Profile Visitors  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=himanshubali&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
+🔥 *Thanks for visiting my profile! Don’t forget to ⭐ some repos you like!*  
