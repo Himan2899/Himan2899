@@ -108,58 +108,16 @@
 
 
 
-## 🚀 Featured Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h3>🤖 AI Web Extension</h3>
-        <p>AI-powered Web Accessibility Chrome Extension</p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-      </td>
-      <td align="center" width="33%">
-        <h3>💬 Real-time Chat</h3>
-        <p>Real-time Chat App with Socket.io & MongoDB</p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-      </td>
-      <td align="center" width="33%">
-        <h3>💰 Finance Tracker</h3>
-        <p>Personal Finance Tracker with Cloud Deployment</p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-      </td>
-    </tr>
-  </table>
-</div>
+
+
 
 ---
 
-## 📌 Fun Facts About Me
+## 🎨 Weekly Development Breakdown
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🔭-Learning%20AI%20Integrations-00D4FF?style=for-the-badge&labelColor=00D4FF&color=white"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/✨-Design%20Systems-FF6B6B?style=for-the-badge&labelColor=FF6B6B&color=white"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🎯-Open%20Source%20AI%20Projects-00FF88?style=for-the-badge&labelColor=00FF88&color=white"/>
-      </td>
-      <td align="center">
-    
-
-## 🎨 Skills Radar
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Himan2899&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_radius=10"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Himan2899&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00FF88&text_color=FFFFFF&border_radius=10&include_all_commits=true&count_private=true"/>
 </div>
 
 ---
@@ -177,9 +135,4 @@
   <img src="https://img.shields.io/badge/Made%20with%20❤️-by%20Himanshu%20Bali-FF6B6B?style=for-the-badge&labelColor=FF6B6B&color=white"/>
 </div>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Keep%20Coding%20🚀&fontSize=30&fontColor=FFFFFF"/>
-</div>
 
