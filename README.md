@@ -108,7 +108,7 @@
 
 
 <div align="center">
-  <h3>🔥 Thanks For visiting My Profile! Don't Forget to ⭐ some repos you Loved ❤️ ! 🔥</h3>
+  <h3>🔥 Thanks For Visiting My Profile! Don't Forget To ⭐ Repos You Loved ❤️ ! 🔥</h3>
   <img src="https://img.shields.io/badge/Made%20with%20❤️-by%20Himanshu%20Bali-FF6B6B?style=for-the-badge&labelColor=FF6B6B&color=white"/>
 </div>
 
