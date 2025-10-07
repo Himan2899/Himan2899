@@ -104,31 +104,8 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
 </div>
 
----
 
 
-
-
-
-
-
----
-
-## 🎨 Weekly Development Breakdown
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himan2899&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00FF88&text_color=FFFFFF&border_radius=10&include_all_commits=true&count_private=true"/>
-</div>
-
----
-
-## 👀 Profile Visitors
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Himan2899&label=Profile%20Views&color=00D4FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
-</div>
-
----
 
 <div align="center">
   <h3>🔥 Thanks for visiting my profile! Don't forget to ⭐ some repos you like! 🔥</h3>
