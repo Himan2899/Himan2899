@@ -223,12 +223,7 @@
         <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
         <br>
         <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80">
-      </td>
-      <td align="center" width="100">
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-        <br>
-        <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="80">
-      </td>
+     
     </tr>
     <tr>
       <td align="center" width="100">
