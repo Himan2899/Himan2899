@@ -118,26 +118,42 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td width="50%" valign="top">
+      <td width="50%" valign="top" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
         <div align="center">
           <h3>🌌 3D Solar System</h3>
           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
           <br><br>
-          <img src="https://media.giphy.com/media/l0HlQXlQ3nHyLMvte/giphy.gif" width="300" alt="Solar System Animation">
-          <br><br>
           <p><strong>🚀 3D Solar System Simulation using Three.js</strong></p>
           <p><em>Explore the cosmos in real-time 3D!</em></p>
+          <br>
+          <p>🪐 Interactive planetary orbits with realistic physics</p>
+          <p>⭐ Real-time 3D rendering with smooth animations</p>
+          <p>🌍 Accurate scale models of all planets</p>
+          <p>🎮 User-controlled camera navigation</p>
+          <p>✨ Beautiful space environment with stars</p>
+          <br>
+          <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js">
+          <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
         </div>
       </td>
-      <td width="50%" valign="top">
+      <td width="50%" valign="top" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">
         <div align="center">
           <h3>👨‍🍳 CookMasterAI</h3>
           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
           <br><br>
-          <img src="https://media.giphy.com/media/3o6ZtrbzjGAAXyx2WQ/giphy.gif" width="300" alt="Cooking Animation">
-          <br><br>
           <p><strong>🤖 AI-powered cooking assistant to manage recipes,</strong></p>
           <p><strong>pantry, and cooking with voice control & automation</strong></p>
+          <br>
+          <p>🎤 Voice-activated recipe instructions</p>
+          <p>📋 Smart pantry inventory management</p>
+          <p>🍳 Step-by-step cooking guidance</p>
+          <p>🔔 Timer and notification system</p>
+          <p>💡 AI-powered recipe suggestions</p>
+          <br>
+          <img src="https://img.shields.io/badge/AI-Powered-FF6B6B?style=flat-square&logo=openai&logoColor=white" alt="AI">
+          <img src="https://img.shields.io/badge/Voice-Control-4ECDC4?style=flat-square&logo=google-assistant&logoColor=white" alt="Voice">
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
         </div>
       </td>
     </tr>
@@ -154,10 +170,18 @@
           <h3>📚 StudyFlow</h3>
           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
           <br><br>
-          <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250" alt="Study Animation">
-          <br><br>
           <p><strong>🧠 Smart study management app helping students</strong></p>
           <p><strong>organize academic journeys efficiently.</strong></p>
+          <br>
+          <p>📅 Intelligent schedule planning</p>
+          <p>📊 Progress tracking & analytics</p>
+          <p>🎯 Goal setting & achievement</p>
+          <p>📝 Note-taking with organization</p>
+          <p>⏰ Smart reminder system</p>
+          <br>
+          <img src="https://img.shields.io/badge/Education-FF6B6B?style=flat-square" alt="Education">
+          <img src="https://img.shields.io/badge/Productivity-4ECDC4?style=flat-square" alt="Productivity">
+          <img src="https://img.shields.io/badge/Students-FFE66D?style=flat-square" alt="Students">
         </div>
       </td>
       <td width="33%" valign="top">
@@ -165,10 +189,18 @@
           <h3>📈 Trading Bot</h3>
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
           <br><br>
-          <img src="https://media.giphy.com/media/JtBZm3Getg3dqxK0zP/giphy.gif" width="250" alt="Stock Market Graph">
-          <br><br>
           <p><strong>📊 Binance Futures Trading Bot supporting market,</strong></p>
           <p><strong>limit, and stop-limit orders with real-time strategy.</strong></p>
+          <br>
+          <p>⚡ Real-time market analysis</p>
+          <p>📉 Automated trading strategies</p>
+          <p>🎯 Risk management system</p>
+          <p>📱 Live price monitoring</p>
+          <p>💰 Profit/loss tracking</p>
+          <br>
+          <img src="https://img.shields.io/badge/Binance-F0B90B?style=flat-square&logo=binance&logoColor=white" alt="Binance">
+          <img src="https://img.shields.io/badge/Trading-00C851?style=flat-square" alt="Trading">
+          <img src="https://img.shields.io/badge/Crypto-F7931A?style=flat-square&logo=bitcoin&logoColor=white" alt="Crypto">
         </div>
       </td>
       <td width="33%" valign="top">
@@ -176,10 +208,18 @@
           <h3>🎓 SRM-IST-AI-Campus-Assistant</h3>
           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
           <br><br>
-          <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" alt="AI Assistant Animation">
-          <br><br>
           <p><strong>🎯 AI-powered campus platform built for SRMIST —</strong></p>
           <p><strong>a comprehensive digital companion for students.</strong></p>
+          <br>
+          <p>🤖 AI chatbot for campus queries</p>
+          <p>📚 Course & schedule management</p>
+          <p>🗺️ Interactive campus navigation</p>
+          <p>📢 Event notifications & updates</p>
+          <p>👥 Student community features</p>
+          <br>
+          <img src="https://img.shields.io/badge/SRMIST-FF6B6B?style=flat-square" alt="SRMIST">
+          <img src="https://img.shields.io/badge/AI-Assistant-4ECDC4?style=flat-square" alt="AI Assistant">
+          <img src="https://img.shields.io/badge/Campus-FFE66D?style=flat-square" alt="Campus">
         </div>
       </td>
     </tr>
@@ -189,12 +229,44 @@
 ---
 
 <div align="center">
-  <h3>📁 Smart File Organizer</h3>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <br><br>
-  <img src="https://media.giphy.com/media/3oKIPjzfv0sI2p7fDW/giphy.gif" width="400" alt="File Organization Animation">
-  <br><br>
-  <p><strong>⚡ Intelligently organize files using AI-powered classification and smart sorting.</strong></p>
+  <table width="100%">
+    <tr>
+      <td width="100%" align="center">
+        <h3>📁 Smart File Organizer</h3>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+        <br><br>
+        <p><strong>⚡ Intelligently organize files using AI-powered classification and smart sorting.</strong></p>
+        <br>
+        <table width="80%">
+          <tr>
+            <td width="50%" align="center">
+              <p>🤖 <strong>AI-Powered Classification</strong></p>
+              <p>Automatically categorize files by type, content, and context</p>
+            </td>
+            <td width="50%" align="center">
+              <p>⚡ <strong>Lightning Fast Processing</strong></p>
+              <p>Organize thousands of files in seconds</p>
+            </td>
+          </tr>
+          <tr>
+            <td width="50%" align="center">
+              <p>📂 <strong>Smart Folder Structure</strong></p>
+              <p>Creates intuitive folder hierarchies automatically</p>
+            </td>
+            <td width="50%" align="center">
+              <p>🔍 <strong>Duplicate Detection</strong></p>
+              <p>Finds and removes duplicate files intelligently</p>
+            </td>
+          </tr>
+        </table>
+        <br>
+        <img src="https://img.shields.io/badge/Machine_Learning-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white" alt="ML">
+        <img src="https://img.shields.io/badge/Automation-4ECDC4?style=flat-square" alt="Automation">
+        <img src="https://img.shields.io/badge/File_Management-FFE66D?style=flat-square" alt="File Management">
+        <img src="https://img.shields.io/badge/Productivity-95E1D3?style=flat-square" alt="Productivity">
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -207,54 +279,54 @@
       <td align="center" width="100">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
         <br>
-        <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="80">
+        <strong>TypeScript</strong>
       </td>
       <td align="center" width="100">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
         <br>
-        <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="80">
+        <strong>Python</strong>
       </td>
       <td align="center" width="100">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
         <br>
-        <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="80">
+        <strong>React</strong>
       </td>
       <td align="center" width="100">
         <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
         <br>
-        <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80">
+        <strong>Node.js</strong>
       </td>
       <td align="center" width="100">
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
         <br>
-        <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="80">
+        <strong>MongoDB</strong>
       </td>
     </tr>
     <tr>
       <td align="center" width="100">
         <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js">
         <br>
-        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="80">
-      </td>
-      <td align="center" width="100">
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-        <br>
-        <img src="https://media.giphy.com/media/Sr8BqKAd6gYb9zjwMJ/giphy.gif" width="80">
+        <strong>Express.js</strong>
       </td>
       <td align="center" width="100">
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
         <br>
-        <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="80">
+        <strong>Tailwind</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js">
+        <br>
+        <strong>Three.js</strong>
       </td>
       <td align="center" width="100">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
         <br>
-        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80">
+        <strong>Git</strong>
       </td>
       <td align="center" width="100">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
         <br>
-        <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80">
+        <strong>GitHub</strong>
       </td>
     </tr>
   </table>
@@ -271,24 +343,32 @@
 <table width="100%">
   <tr>
     <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/🚀-Innovation-FF6B6B?style=for-the-badge" alt="Innovation">
+      <h3>🚀</h3>
+      <img src="https://img.shields.io/badge/Innovation-FF6B6B?style=for-the-badge" alt="Innovation">
       <br><br>
-      <p><strong>Cutting-edge AI integration</strong></p>
+      <p><strong>Cutting-edge AI Integration</strong></p>
+      <p>Leveraging latest AI technologies for intelligent features</p>
     </td>
     <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/⚡-Performance-4ECDC4?style=for-the-badge" alt="Performance">
+      <h3>⚡</h3>
+      <img src="https://img.shields.io/badge/Performance-4ECDC4?style=for-the-badge" alt="Performance">
       <br><br>
-      <p><strong>Optimized for speed & efficiency</strong></p>
+      <p><strong>Optimized for Speed</strong></p>
+      <p>Lightning-fast performance with efficient algorithms</p>
     </td>
     <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/🎨-Design-FFE66D?style=for-the-badge" alt="Design">
+      <h3>🎨</h3>
+      <img src="https://img.shields.io/badge/Design-FFE66D?style=for-the-badge" alt="Design">
       <br><br>
-      <p><strong>Beautiful, intuitive interfaces</strong></p>
+      <p><strong>Beautiful Interfaces</strong></p>
+      <p>Intuitive UX with modern, attractive designs</p>
     </td>
     <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/🔧-Scalable-95E1D3?style=for-the-badge" alt="Scalable">
+      <h3>🔧</h3>
+      <img src="https://img.shields.io/badge/Scalable-95E1D3?style=for-the-badge" alt="Scalable">
       <br><br>
-      <p><strong>Enterprise-ready architecture</strong></p>
+      <p><strong>Enterprise Ready</strong></p>
+      <p>Built with scalability and maintainability in mind</p>
     </td>
   </tr>
 </table>
@@ -300,9 +380,7 @@
 <div align="center">
   <h2>🚀 Ready to Explore?</h2>
   
-  <img src="https://media.giphy.com/media/26tn8zKqZNe5cSWsw/giphy.gif" width="500" alt="Rocket Launch">
-  
-  <br><br>
+  <br>
   
   <a href="#projects">
     <img src="https://img.shields.io/badge/🌟-Explore_Projects-FF6B6B?style=for-the-badge&logoColor=white" alt="Explore Projects">
@@ -315,6 +393,19 @@
   <a href="#collaboration">
     <img src="https://img.shields.io/badge/🤝-Let's_Collaborate-FFE66D?style=for-the-badge&logoColor=black" alt="Collaborate">
   </a>
+  
+  <br><br>
+  
+  <h3>📊 GitHub Statistics</h3>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak">
+  
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/⭐-Stars_Earned-FFE66D?style=for-the-badge" alt="Stars">
+  <img src="https://img.shields.io/badge/🔥-Commits-FF6B6B?style=for-the-badge" alt="Commits">
+  <img src="https://img.shields.io/badge/🎯-Projects-4ECDC4?style=for-the-badge" alt="Projects">
+  <img src="https://img.shields.io/badge/💻-Contributions-95E1D3?style=for-the-badge" alt="Contributions">
 </div>
 
 ---
@@ -322,17 +413,13 @@
 <div align="center">
   <h3>💫 "Innovation distinguishes between a leader and a follower" 💫</h3>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak">
+  <br>
   
-  <br><br>
+  <p><em>Built with ❤️ by a passionate developer | Always learning, always building</em></p>
   
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100">
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="100">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge" alt="Profile Views">
 </div>
 
----
 
 <div align="center">
   <p><em>Built with ❤️ by a passionate developer | Always learning, always building</em></p>
