@@ -474,19 +474,6 @@
 ---
 
   
-  ### 🔥 Real-Time Contribution Stats
-  
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himan2899&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FFE66D&currStreakLabel=4ECDC4" alt="GitHub Streak">
-      </td>
-    </tr>
-  </table>
-  
-</div>
-
----
 
 <div align="center">
   
