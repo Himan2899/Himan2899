@@ -105,6 +105,126 @@
 </div>
 
 
+<h1 align="center">🚀 My Popular Repositories</h1>
+
+<div align="center">
+  <p>✨ A showcase of my top projects — blending creativity, AI, and powerful tech ✨</p>
+</div>
+
+<hr>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+  
+### 🌌 [3D Solar System](https://github.com/yourusername/3DSolarSystem)
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white" />
+</div>
+
+🪐 3D Solar System Simulation using **Three.js**  
+<sub><i>Explore the cosmos in real-time 3D!</i></sub>
+
+</td>
+<td align="center" width="50%">
+
+### 🍳 [CookMasterAI](https://github.com/yourusername/CookMasterAI)
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white" />
+</div>
+
+🤖 AI-powered cooking assistant to manage recipes,  
+pantry, and cooking with **voice control & automation**
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 📚 [StudyFlow](https://github.com/yourusername/studyflow)
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white" />
+</div>
+
+🧠 Smart study management app helping students  
+organize academic journeys efficiently.
+
+</td>
+<td align="center">
+
+### 💹 [Trading Bot](https://github.com/yourusername/TRADING_BOT)
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white" />
+</div>
+
+📈 Binance Futures Trading Bot supporting market, limit,  
+and stop-limit orders with real-time strategy.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🗂️ [Smart File Organizer](https://github.com/yourusername/SmartFileOrganizer)
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white" />
+</div>
+
+🧩 Intelligently organize files using **AI-powered**  
+classification and smart sorting.
+
+</td>
+<td align="center">
+
+### 🎓 [SRM-IST-AI-Campus-Assistant](https://github.com/yourusername/SRM-IST-AI-CAMPUS-ASSISTANT)
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white" />
+</div>
+
+🎯 AI-powered campus platform built for SRMIST —  
+a comprehensive **digital companion** for students.
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<h3 align="center">✨ Animated Gradient Divider ✨</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
+</p>
+
+<h3 align="center">🌈 Tech Stack Highlights</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,python,react,nodejs,threejs,express,mongodb,tailwind,git,github&perline=5" />
+</p>
+
+---
+
+<style>
+@keyframes glow {
+  0% { text-shadow: 0 0 10px #00ffff, 0 0 20px #00ffff; }
+  50% { text-shadow: 0 0 20px #ff00ff, 0 0 30px #ff00ff; }
+  100% { text-shadow: 0 0 10px #00ffff, 0 0 20px #00ffff; }
+}
+
+h1, h3 {
+  animation: glow 3s infinite alternate;
+}
+</style>
+
+---
+
+⭐ *Feel free to explore my repositories and star your favorites!*  
+💬 *Let’s collaborate on something amazing!* 🚀
 
 
 <div align="center">
