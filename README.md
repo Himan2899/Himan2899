@@ -621,61 +621,7 @@
 
 <div align="center">
   
-  ### 💡 Did You Know?
-  
-  <table width="100%">
-    <tr>
-      <td width="33%" align="center">
-        <h3>🚀</h3>
-        <p><strong>Most Active Month</strong></p>
-        <p>October 2025 with 51+ commits!</p>
-      </td>
-      <td width="33%" align="center">
-        <h3>⚡</h3>
-        <p><strong>Favorite Languages</strong></p>
-        <p>Python, TypeScript, Java, Dart</p>
-      </td>
-      <td width="33%" align="center">
-        <h3>🎯</h3>
-        <p><strong>Project Focus</strong></p>
-        <p>AI, ML & Full-Stack Development</p>
-      </td>
-    </tr>
-  </table>
-  
-</div>
 
----
-
-<div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=Himan2899&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
-  
-  <br><br>
-  
-  <img src="https://img.shields.io/github/followers/Himan2899?style=for-the-badge&color=4ECDC4&logo=github&logoColor=white&label=FOLLOWERS" alt="Followers">
-  <img src="https://img.shields.io/badge/⭐-STARS-FFE66D?style=for-the-badge" alt="Stars">
-  <img src="https://img.shields.io/badge/🔥-CONTRIBUTIONS-95E1D3?style=for-the-badge" alt="Contributions">
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### 💬 Let's Connect!
-  
-  <a href="https://github.com/Himan2899">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  
-  <br><br>
-  
-  <p><em>⚡ "Code is like humor. When you have to explain it, it's bad." ⚡</em></p>
-  
-</div>
-
----
 
 
 
