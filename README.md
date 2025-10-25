@@ -375,34 +375,7 @@
 
 </div>
 
----
 
-<div align="center">
-  <h2>🚀 Ready to Explore?</h2>
-  
-  <br>
-  
-  <a href="#projects">
-    <img src="https://img.shields.io/badge/🌟-Explore_Projects-FF6B6B?style=for-the-badge&logoColor=white" alt="Explore Projects">
-  </a>
-  &nbsp;&nbsp;
-  <a href="#contact">
-    <img src="https://img.shields.io/badge/📧-Get_In_Touch-4ECDC4?style=for-the-badge&logoColor=white" alt="Contact">
-  </a>
-  &nbsp;&nbsp;
-  <a href="#collaboration">
-    <img src="https://img.shields.io/badge/🤝-Let's_Collaborate-FFE66D?style=for-the-badge&logoColor=black" alt="Collaborate">
-  </a>
-  
-  <br><br>
-  
-
----
-
-<div align="center">
-  <h3>💫 "Innovation distinguishes between a leader and a follower" 💫</h3>
-  
-  <br>
   
   <p><em>Built with ❤️ by a passionate developer | Always learning, always building</em></p>
   
