@@ -452,7 +452,9 @@
   
   <br><br>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=Himan2899&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=7&row=2" alt="GitHub Trophies" width="100%">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Himan2899&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies">
+  </a>
   
 </div>
 
@@ -460,36 +462,9 @@
 
 <div align="center">
   
-  ### 🎨 Trophy Collection in Different Themes
+  ### 🎨 Colorful Trophy Showcase
   
-  <details>
-    <summary><b>🌈 View More Trophy Themes</b></summary>
-    <br>
-    
-    <h4>🔥 Radical Theme</h4>
-    <img src="https://github-profile-trophy.vercel.app/?username=Himan2899&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Radical Theme">
-    
-    <br><br>
-    
-    <h4>🌙 Dracula Theme</h4>
-    <img src="https://github-profile-trophy.vercel.app/?username=Himan2899&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Dracula Theme">
-    
-    <br><br>
-    
-    <h4>⚡ Onedark Theme</h4>
-    <img src="https://github-profile-trophy.vercel.app/?username=Himan2899&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Onedark Theme">
-    
-    <br><br>
-    
-    <h4>🎯 Gruvbox Theme</h4>
-    <img src="https://github-profile-trophy.vercel.app/?username=Himan2899&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Gruvbox Theme">
-    
-    <br><br>
-    
-    <h4>🌊 Tokyonight Theme</h4>
-    <img src="https://github-profile-trophy.vercel.app/?username=Himan2899&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Tokyonight Theme">
-    
-  </details>
+  <img src="https://github-profile-trophy.vercel.app/?username=Himan2899&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=6&row=2" alt="Trophies">
   
 </div>
 
@@ -497,34 +472,25 @@
 
 <div align="center">
   
-  ### 🎖️ Achievement Breakdown
+  ### 🌈 Multi-Theme Trophy Display
   
   <table width="100%">
     <tr>
-      <td width="20%" align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=Himan2899&theme=radical&no-frame=true&no-bg=true&rank=SSS,SS,S" alt="Top Ranks">
-        <br>
-        <strong>Top Tier Achievements</strong>
+      <td width="100%" align="center">
+        <h4>🔥 Radical Theme</h4>
+        <img src="https://github-profile-trophy.vercel.app/?username=Himan2899&theme=radical&column=8&margin-w=15&margin-h=15" alt="Radical">
       </td>
-      <td width="20%" align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=Himan2899&theme=radical&no-frame=true&no-bg=true&rank=AAA,AA,A" alt="High Ranks">
-        <br>
-        <strong>High Level Achievements</strong>
+    </tr>
+    <tr>
+      <td width="100%" align="center">
+        <h4>🌙 Dracula Theme</h4>
+        <img src="https://github-profile-trophy.vercel.app/?username=Himan2899&theme=dracula&column=8&margin-w=15&margin-h=15" alt="Dracula">
       </td>
-      <td width="20%" align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=Himan2899&theme=radical&no-frame=true&no-bg=true&rank=B,C" alt="Mid Ranks">
-        <br>
-        <strong>Growing Achievements</strong>
-      </td>
-      <td width="20%" align="center">
-        <img src="https://img.shields.io/badge/🎯-In_Progress-4ECDC4?style=for-the-badge" alt="In Progress">
-        <br>
-        <strong>Working Towards</strong>
-      </td>
-      <td width="20%" align="center">
-        <img src="https://img.shields.io/badge/🔓-Unlocked-FFE66D?style=for-the-badge&logoColor=black" alt="Unlocked">
-        <br>
-        <strong>Recently Earned</strong>
+    </tr>
+    <tr>
+      <td width="100%" align="center">
+        <h4>🎯 Onedark Theme</h4>
+        <img src="https://github-profile-trophy.vercel.app/?username=Himan2899&theme=onedark&column=8&margin-w=15&margin-h=15" alt="Onedark">
       </td>
     </tr>
   </table>
@@ -535,47 +501,33 @@
 
 <div align="center">
   
-  ### 🌟 Trophy Categories
+  ### 🎖️ Trophy Statistics
   
   <table width="100%">
     <tr>
-      <td width="33%" align="center">
-        <h4>💼 Commits</h4>
-        <img src="https://img.shields.io/badge/Total_Commits-Dynamic-FF6B6B?style=for-the-badge&logo=git&logoColor=white" alt="Commits">
+      <td width="25%" align="center">
+        <img src="https://img.shields.io/badge/🏆-Total_Trophies-FFD700?style=for-the-badge" alt="Total">
         <br><br>
-        <p>Consistency in coding</p>
+        <h4>Achievement Count</h4>
+        <p>Unlocked GitHub milestones</p>
       </td>
-      <td width="33%" align="center">
-        <h4>📦 Repositories</h4>
-        <img src="https://img.shields.io/badge/Public_Repos-Growing-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="Repos">
+      <td width="25%" align="center">
+        <img src="https://img.shields.io/badge/⭐-Rank_S-FF6B6B?style=for-the-badge" alt="Rank S">
         <br><br>
-        <p>Project portfolio</p>
+        <h4>Top Tier</h4>
+        <p>Highest achievements</p>
       </td>
-      <td width="33%" align="center">
-        <h4>⭐ Stars</h4>
-        <img src="https://img.shields.io/badge/Total_Stars-Increasing-FFE66D?style=for-the-badge&logo=github&logoColor=black" alt="Stars">
+      <td width="25%" align="center">
+        <img src="https://img.shields.io/badge/🎯-In_Progress-4ECDC4?style=for-the-badge" alt="Progress">
         <br><br>
-        <p>Community recognition</p>
+        <h4>Working On</h4>
+        <p>Future goals</p>
       </td>
-    </tr>
-    <tr>
-      <td width="33%" align="center">
-        <h4>👥 Followers</h4>
-        <img src="https://img.shields.io/badge/Followers-Network-95E1D3?style=for-the-badge&logo=github&logoColor=black" alt="Followers">
+      <td width="25%" align="center">
+        <img src="https://img.shields.io/badge/🔓-Recently_Unlocked-FFE66D?style=for-the-badge&logoColor=black" alt="Unlocked">
         <br><br>
-        <p>Developer network</p>
-      </td>
-      <td width="33%" align="center">
-        <h4>🔥 Streak</h4>
-        <img src="https://img.shields.io/badge/Contribution_Streak-Active-FF6B6B?style=for-the-badge&logo=git&logoColor=white" alt="Streak">
-        <br><br>
-        <p>Daily dedication</p>
-      </td>
-      <td width="33%" align="center">
-        <h4>💻 Languages</h4>
-        <img src="https://img.shields.io/badge/Tech_Stack-Diverse-4ECDC4?style=for-the-badge&logo=code&logoColor=white" alt="Languages">
-        <br><br>
-        <p>Multi-language expertise</p>
+        <h4>Latest Wins</h4>
+        <p>New achievements</p>
       </td>
     </tr>
   </table>
@@ -584,18 +536,6 @@
 
 ---
 
-<div align="center">
-  
-  ### 🎉 Trophy Statistics
-  
-  <img src="https://img.shields.io/badge/🏆-Trophy_Hunter-FFD700?style=for-the-badge" alt="Trophy Hunter">
-  <img src="https://img.shields.io/badge/🎯-Achievement_Seeker-FF6B6B?style=for-the-badge" alt="Achievement Seeker">
-  <img src="https://img.shields.io/badge/⭐-Star_Collector-4ECDC4?style=for-the-badge" alt="Star Collector">
-  <img src="https://img.shields.io/badge/🔥-Streak_Master-FFE66D?style=for-the-badge&logoColor=black" alt="Streak Master">
-  
-</div>
-
----
 <div align="center">
 
 ## 📊 GitHub Contribution Activity
