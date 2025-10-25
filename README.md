@@ -609,18 +609,6 @@
 
 ---
 
-<div align="center">
-  
-  ### 🎨 Contribution Calendar
-  
-  <img src="https://ghchart.rshah.org/FF6B6B/Himan2899" alt="Contribution Calendar">
-  
-</div>
-
----
-
-<div align="center">
-  
 
 
 
