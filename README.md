@@ -449,7 +449,30 @@
 
 <div align="center">
   
-  <img src="https://img.shields.io/badge/GitHub-Activity-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Activity">
+  <img src="https://img.shields.io/badge/📊-GitHub_Activity-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Activity">
+  
+  <br><br>
+  
+  ### 🔥 Real-Time Contribution Stats
+  
+</div>
+
+---
+
+<div align="center">
+  
+  <table width="100%">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himan2899&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FFE66D&currStreakLabel=4ECDC4&sideLabels=FFFFFF&dates=AAAAAA" width="600" alt="GitHub Streak">
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+---
+
   
   ### 🔥 Real-Time Contribution Stats
   
