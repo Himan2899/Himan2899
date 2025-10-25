@@ -444,6 +444,17 @@
   
 
 ---
+<div align="center">
+  
+  ### 🏆 GitHub Trophies
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Himan2899&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" width="100%">
+  
+</div>
+
+---
+
+<div align="center">
 
 ## 📊 GitHub Contribution Activity
 
