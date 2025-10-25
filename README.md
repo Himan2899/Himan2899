@@ -380,6 +380,302 @@
   <p><em>Built with ❤️ by a passionate developer | Always learning, always building</em></p>
   
 
+---
+
+## 📊 GitHub Contribution Activity
+
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/GitHub-Activity-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Activity">
+  
+  ### 🔥 Real-Time Contribution Stats
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himan2899&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FFE66D&currStreakLabel=4ECDC4" alt="GitHub Streak">
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 📈 Contribution Overview
+  
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Himan2899&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats">
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himan2899&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8" alt="Top Languages">
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🎯 Activity Graph
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himan2899&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=FFE66D" alt="Activity Graph">
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🏆 GitHub Trophies
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Himan2899&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies">
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💻 Recent Activity & Achievements
+  
+  <table width="100%">
+    <tr>
+      <td width="25%" align="center">
+        <img src="https://img.shields.io/badge/🎯-137_Contributions-FF6B6B?style=for-the-badge" alt="Contributions">
+        <br><br>
+        <h4>Total Contributions</h4>
+        <p>In the last year</p>
+      </td>
+      <td width="25%" align="center">
+        <img src="https://img.shields.io/badge/📦-51_Commits-4ECDC4?style=for-the-badge" alt="Commits">
+        <br><br>
+        <h4>Commits (Oct 2025)</h4>
+        <p>Across 5 repositories</p>
+      </td>
+      <td width="25%" align="center">
+        <img src="https://img.shields.io/badge/🚀-5_New_Repos-FFE66D?style=for-the-badge&logoColor=black" alt="New Repos">
+        <br><br>
+        <h4>New Repositories</h4>
+        <p>Created in October</p>
+      </td>
+      <td width="25%" align="center">
+        <img src="https://img.shields.io/badge/⭐-Active-95E1D3?style=for-the-badge" alt="Active">
+        <br><br>
+        <h4>Activity Status</h4>
+        <p>Highly Active Developer</p>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 📂 October 2025 Highlights
+  
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h4>🔨 Top Repositories by Commits</h4>
+        <br>
+        <table width="100%">
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/Himan2899-FF6B6B?style=flat-square&logo=github&logoColor=white" alt="Repo">
+              <br>
+              <strong>23 commits</strong>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/AI--GESTURE--CONTROLLED--VIRTU...-4ECDC4?style=flat-square&logo=github&logoColor=white" alt="Repo">
+              <br>
+              <strong>12 commits</strong>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/TICKET__Management__System-FFE66D?style=flat-square&logo=github&logoColor=black" alt="Repo">
+              <br>
+              <strong>7 commits</strong>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/TALENT--SCAN--AI-95E1D3?style=flat-square&logo=github&logoColor=black" alt="Repo">
+              <br>
+              <strong>6 commits</strong>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/Image--Captioning--Accessibili...-A8E6CF?style=flat-square&logo=github&logoColor=black" alt="Repo">
+              <br>
+              <strong>3 commits</strong>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td width="50%" valign="top">
+        <h4>🆕 Recently Created Repositories</h4>
+        <br>
+        <table width="100%">
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+              <strong> Image-Captioning-Accessibility-Tool</strong>
+              <br>
+              <em>Oct 14, 2025</em>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+              <strong> MindCare-AI</strong>
+              <br>
+              <em>Oct 14, 2025</em>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+              <strong> TICKET_Management_System</strong>
+              <br>
+              <em>Oct 9, 2025</em>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+              <strong> TALENT-SCAN-AI</strong>
+              <br>
+              <em>Oct 7, 2025</em>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+              <strong> Himan2899</strong>
+              <br>
+              <em>Oct 7, 2025</em>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🌈 Profile Insights
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Himan2899&theme=radical" alt="Profile Details">
+  
+  <br><br>
+  
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Himan2899&theme=radical" alt="Repos per Language">
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Himan2899&theme=radical" alt="Most Commit Language">
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Himan2899&theme=radical" alt="Stats">
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Himan2899&theme=radical&utcOffset=5.5" alt="Productive Time">
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🎨 Contribution Calendar
+  
+  <img src="https://ghchart.rshah.org/FF6B6B/Himan2899" alt="Contribution Calendar">
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💡 Did You Know?
+  
+  <table width="100%">
+    <tr>
+      <td width="33%" align="center">
+        <h3>🚀</h3>
+        <p><strong>Most Active Month</strong></p>
+        <p>October 2025 with 51+ commits!</p>
+      </td>
+      <td width="33%" align="center">
+        <h3>⚡</h3>
+        <p><strong>Favorite Languages</strong></p>
+        <p>Python, TypeScript, Java, Dart</p>
+      </td>
+      <td width="33%" align="center">
+        <h3>🎯</h3>
+        <p><strong>Project Focus</strong></p>
+        <p>AI, ML & Full-Stack Development</p>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+---
+
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=Himan2899&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
+  
+  <br><br>
+  
+  <img src="https://img.shields.io/github/followers/Himan2899?style=for-the-badge&color=4ECDC4&logo=github&logoColor=white&label=FOLLOWERS" alt="Followers">
+  <img src="https://img.shields.io/badge/⭐-STARS-FFE66D?style=for-the-badge" alt="Stars">
+  <img src="https://img.shields.io/badge/🔥-CONTRIBUTIONS-95E1D3?style=for-the-badge" alt="Contributions">
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💬 Let's Connect!
+  
+  <a href="https://github.com/Himan2899">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  
+  <br><br>
+  
+  <p><em>⚡ "Code is like humor. When you have to explain it, it's bad." ⚡</em></p>
+  
+</div>
+
+---
 
 
 
