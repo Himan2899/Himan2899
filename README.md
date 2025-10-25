@@ -286,51 +286,54 @@
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
-        <br><strong>TypeScript</strong>
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+        <br>TypeScript
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
-        <br><strong>Python</strong>
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <br>Python
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
-        <br><strong>React</strong>
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <br>React
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
-        <br><strong>JavaScript</strong>
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <br>Node.js
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" />
-        <br><strong>MongoDB</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" />
+        <br>MongoDB
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express.js" width="48" height="48" />
-        <br><strong>Express.js</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="65" height="65" style="background-color: white; padding: 5px;" />
+        <br>Express.js
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind CSS" width="48" height="48" />
-        <br><strong>Tailwind CSS</strong>
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="65" height="65" />
+        <br>Tailwind CSS
       </td>
       <td align="center" width="96">
-        <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="Three.js" width="48" height="48" />
-        <br><strong>Three.js</strong>
+        <img src="https://raw.githubusercontent.com/mrdoob/three.js/dev/files/icon.svg" alt="Three.js" width="65" height="65" />
+        <br>Three.js
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" />
-        <br><strong>Git</strong>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="65" height="65" />
+        <br>Git
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48" />
-        <br><strong>GitHub</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="65" height="65" />
+        <br>GitHub
       </td>
     </tr>
   </table>
   
 </div>
+
+---
+
 
 
 
@@ -344,17 +347,6 @@
 
 ---
 
-<div align="center">
-  
-  ### 📊 Most Used Languages
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himan2899&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=10&card_width=500" alt="Top Languages" />
-  
-</div>
-
----
-
-<div align="center">
   
   ### 💡 Technology Proficiency
   
