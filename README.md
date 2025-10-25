@@ -123,7 +123,7 @@
           <h3>🌌 3D Solar System</h3>
           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
           <br><br>
-          <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="Solar System Animation">
+          <img src="https://media.giphy.com/media/l0HlQXlQ3nHyLMvte/giphy.gif" width="300" alt="Solar System Animation">
           <br><br>
           <p><strong>🚀 3D Solar System Simulation using Three.js</strong></p>
           <p><em>Explore the cosmos in real-time 3D!</em></p>
@@ -165,7 +165,7 @@
           <h3>📈 Trading Bot</h3>
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
           <br><br>
-          <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="250" alt="Trading Animation">
+          <img src="https://media.giphy.com/media/JtBZm3Getg3dqxK0zP/giphy.gif" width="250" alt="Stock Market Graph">
           <br><br>
           <p><strong>📊 Binance Futures Trading Bot supporting market,</strong></p>
           <p><strong>limit, and stop-limit orders with real-time strategy.</strong></p>
@@ -176,7 +176,7 @@
           <h3>🎓 SRM-IST-AI-Campus-Assistant</h3>
           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
           <br><br>
-          <img src="https://media.giphy.com/media/3oKIPdveFRYjzJFYpW/giphy.gif" width="250" alt="AI Assistant Animation">
+          <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" alt="AI Assistant Animation">
           <br><br>
           <p><strong>🎯 AI-powered campus platform built for SRMIST —</strong></p>
           <p><strong>a comprehensive digital companion for students.</strong></p>
@@ -223,7 +223,12 @@
         <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
         <br>
         <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80">
-     
+      </td>
+      <td align="center" width="100">
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+        <br>
+        <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="80">
+      </td>
     </tr>
     <tr>
       <td align="center" width="100">
