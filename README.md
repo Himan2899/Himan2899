@@ -275,68 +275,57 @@
 
 <div align="center">
   
-  <img src="https://img.shields.io/badge/🚀-Technologies_I_Use-FF6B6B?style=for-the-badge" alt="Tech Stack">
+  ### 🎨 Technologies I Work With
   
-  <br><br>
+</div>
+
+---
+
+<div align="center">
   
   <table>
     <tr>
-      <td align="center" width="120">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65">
-        <br>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
+        <br><strong>TypeScript</strong>
       </td>
-      <td align="center" width="120">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65">
-        <br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+        <br><strong>Python</strong>
       </td>
-      <td align="center" width="120">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65">
-        <br>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+        <br><strong>React</strong>
       </td>
-      <td align="center" width="120">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Node.js" width="65" height="65">
-        <br>
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+        <br><strong>JavaScript</strong>
       </td>
-      <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="65" height="65">
-        <br>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" />
+        <br><strong>MongoDB</strong>
       </td>
     </tr>
-  </table>
-  
-  <br>
-  
-  <table>
     <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="65" height="65">
-        <br>
-        <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js">
+      <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express.js" width="48" height="48" />
+        <br><strong>Express.js</strong>
       </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="65" height="65">
-        <br>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+      <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind CSS" width="48" height="48" />
+        <br><strong>Tailwind CSS</strong>
       </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" width="65" height="65">
-        <br>
-        <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js">
+      <td align="center" width="96">
+        <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="Three.js" width="48" height="48" />
+        <br><strong>Three.js</strong>
       </td>
-      <td align="center" width="120">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="65" height="65">
-        <br>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" />
+        <br><strong>Git</strong>
       </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="65" height="65">
-        <br>
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48" />
+        <br><strong>GitHub</strong>
       </td>
     </tr>
   </table>
@@ -345,48 +334,58 @@
 
 ---
 
+## 💻 Full Stack Development
+
 <div align="center">
-  
-  ### 💻 Full Stack Development
   
   <table width="100%">
     <tr>
-      <td width="33%" align="center">
-        <h4>🎨 Frontend</h4>
+      <td width="33%" valign="top" align="center">
+        <h3>🎨 Frontend</h3>
         <br>
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,threejs" alt="Frontend">
-        <br><br>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
         <br>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+        <br>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <br>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <br>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+        <br>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+        <br>
+        <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
       </td>
-      <td width="33%" align="center">
-        <h4>⚙️ Backend</h4>
+      <td width="33%" valign="top" align="center">
+        <h3>⚙️ Backend</h3>
         <br>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,mongodb" alt="Backend">
-        <br><br>
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-        <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" alt="Express.js">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
         <br>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+        <br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <br>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+        <br>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <br>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
       </td>
-      <td width="33%" align="center">
-        <h4>🛠️ Tools & Others</h4>
+      <td width="33%" valign="top" align="center">
+        <h3>🛠️ Tools & Others</h3>
         <br>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase" alt="Tools">
-        <br><br>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
         <br>
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        <br>
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+        <br>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+        <br>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+        <br>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
       </td>
     </tr>
   </table>
@@ -395,54 +394,33 @@
 
 ---
 
+## 📱 Mobile & AI/ML
+
 <div align="center">
-  
-  ### 📱 Mobile & AI/ML
   
   <table width="100%">
     <tr>
-      <td width="50%" align="center">
-        <h4>📱 Mobile Development</h4>
+      <td width="50%" valign="top" align="center">
+        <h3>📱 Mobile Development</h3>
         <br>
-        <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" alt="Mobile">
-        <br><br>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
         <br>
-        <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+        <br>
+        <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+        <br>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
       </td>
-      <td width="50%" align="center">
-        <h4>🤖 AI & Machine Learning</h4>
+      <td width="50%" valign="top" align="center">
+        <h3>🤖 AI & Machine Learning</h3>
         <br>
-        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI/ML">
-        <br><br>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
         <br>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-      </td>
-    </tr>
-  </table>
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### 🎯 Tech Proficiency
-  
-  <table width="100%">
-    <tr>
-      <td width="50%">
-        <h4>Programming Languages</h4>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
         <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himan2899&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=10" alt="Top Languages">
-      </td>
-      <td width="50%">
-        <h4>Technology Distribution</h4>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
         <br>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Himan2899&theme=radical" alt="Repos per Language">
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
       </td>
     </tr>
   </table>
@@ -453,13 +431,9 @@
 
 <div align="center">
   
-  ### 🌟 Animated Tech Stack
+  ### 🌟 Complete Tech Arsenal
   
-  <img src="https://skillicons.dev/icons?i=ts,py,react,nodejs,mongodb,express,tailwind,threejs,flutter,dart,java,git,github,vscode,postman,firebase,tensorflow,pytorch,opencv&perline=10" alt="Tech Stack Icons">
-  
-  <br><br>
-  
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&lineCount=3&theme=radical&bg=0D1117&titleColor=FF6B6B&lineColor=4ECDC4&line1=typescript,TypeScript,007ACC;python,Python,3776AB;react,React,61DAFB;nodejs,Node.js,339933;&line2=mongodb,MongoDB,47A248;express,Express,000000;tailwind,Tailwind,38B2AC;threejs,Three.js,000000;&line3=flutter,Flutter,02569B;dart,Dart,0175C2;java,Java,ED8B00;git,Git,F05032;" alt="Tech Stack Card">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,html,css,react,nodejs,express,mongodb,tailwind,threejs,flutter,dart,git,github,vscode,postman,firebase,tensorflow&perline=10" alt="Tech Stack" />
   
 </div>
 
@@ -467,36 +441,43 @@
 
 <div align="center">
   
-  ### 💡 Technology Highlights
+  ### 📊 Most Used Languages
   
-  <img src="https://img.shields.io/badge/🎨-Frontend_Development-FF6B6B?style=for-the-badge" alt="Frontend">
-  <img src="https://img.shields.io/badge/⚙️-Backend_Development-4ECDC4?style=for-the-badge" alt="Backend">
-  <img src="https://img.shields.io/badge/📱-Mobile_Development-FFE66D?style=for-the-badge&logoColor=black" alt="Mobile">
-  <img src="https://img.shields.io/badge/🤖-AI/ML_Development-95E1D3?style=for-the-badge" alt="AI/ML">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himan2899&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=10&card_width=500" alt="Top Languages" />
   
-  <br><br>
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💡 Technology Proficiency
   
   <table width="100%">
     <tr>
       <td width="25%" align="center">
-        <h3>⚡</h3>
-        <p><strong>Fast Learner</strong></p>
-        <p>Quick to adapt new technologies</p>
+        <img src="https://img.shields.io/badge/Frontend-Expert-FF6B6B?style=for-the-badge" alt="Frontend" />
+        <br><br>
+        <p><strong>UI/UX Design</strong></p>
+        <p>Responsive & Modern Interfaces</p>
       </td>
       <td width="25%" align="center">
-        <h3>🎯</h3>
-        <p><strong>Problem Solver</strong></p>
-        <p>Efficient algorithmic thinking</p>
+        <img src="https://img.shields.io/badge/Backend-Advanced-4ECDC4?style=for-the-badge" alt="Backend" />
+        <br><br>
+        <p><strong>API Development</strong></p>
+        <p>RESTful & GraphQL APIs</p>
       </td>
       <td width="25%" align="center">
-        <h3>🚀</h3>
-        <p><strong>Full Stack</strong></p>
-        <p>End-to-end development skills</p>
+        <img src="https://img.shields.io/badge/Mobile-Proficient-FFE66D?style=for-the-badge&logoColor=black" alt="Mobile" />
+        <br><br>
+        <p><strong>Cross-Platform</strong></p>
+        <p>Flutter & React Native</p>
       </td>
       <td width="25%" align="center">
-        <h3>💡</h3>
-        <p><strong>Innovation</strong></p>
-        <p>AI-powered solution creator</p>
+        <img src="https://img.shields.io/badge/AI/ML-Intermediate-95E1D3?style=for-the-badge" alt="AI/ML" />
+        <br><br>
+        <p><strong>Machine Learning</strong></p>
+        <p>Computer Vision & NLP</p>
       </td>
     </tr>
   </table>
@@ -504,6 +485,20 @@
 </div>
 
 ---
+
+<div align="center">
+  
+  ### 🎯 Development Focus
+  
+  <img src="https://img.shields.io/badge/🚀-Full_Stack_Development-FF6B6B?style=for-the-badge" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/📱-Mobile_App_Development-4ECDC4?style=for-the-badge" alt="Mobile" />
+  <img src="https://img.shields.io/badge/🤖-AI_Powered_Solutions-FFE66D?style=for-the-badge&logoColor=black" alt="AI" />
+  <img src="https://img.shields.io/badge/☁️-Cloud_Deployment-95E1D3?style=for-the-badge" alt="Cloud" />
+  
+</div>
+
+---
+
 
 ## 🎯 Project Highlights
 
