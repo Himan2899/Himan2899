@@ -396,17 +396,6 @@
   
   <br><br>
   
-  <h3>📊 GitHub Statistics</h3>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak">
-  
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/⭐-Stars_Earned-FFE66D?style=for-the-badge" alt="Stars">
-  <img src="https://img.shields.io/badge/🔥-Commits-FF6B6B?style=for-the-badge" alt="Commits">
-  <img src="https://img.shields.io/badge/🎯-Projects-4ECDC4?style=for-the-badge" alt="Projects">
-  <img src="https://img.shields.io/badge/💻-Contributions-95E1D3?style=for-the-badge" alt="Contributions">
-</div>
 
 ---
 
@@ -420,12 +409,6 @@
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge" alt="Profile Views">
 </div>
 
-
-<div align="center">
-  <p><em>Built with ❤️ by a passionate developer | Always learning, always building</em></p>
-  
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge" alt="Profile Views">
-</div>
 
 
 
