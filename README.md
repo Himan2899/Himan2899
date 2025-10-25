@@ -379,8 +379,6 @@
   
   <p><em>Built with ❤️ by a passionate developer | Always learning, always building</em></p>
   
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge" alt="Profile Views">
-</div>
 
 
 
